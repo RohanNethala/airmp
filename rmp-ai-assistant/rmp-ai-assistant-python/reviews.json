@@ -1,0 +1,28 @@
+{
+  "reviews": [
+    {
+      "professor": "Professor Goldschmidt",
+      "review": "Great professor, very easy to understand",
+      "subject": "Discrete Math",
+      "stars": 4.5
+    },
+    {
+        "professor": "Professor Kuzmin",
+        "review": "Super confusing, has thick accent, would not recommend",
+        "subject": "Computer Science",
+        "stars": 1.5
+    },
+    {
+        "professor": "Professor Turner",
+        "review": "Super nice, very open to helping students, my favorite professor at RPI",
+        "subject": "Computer Science",
+        "stars": 4.7
+    },    
+    {    
+        "professor": "Carlos Varela",
+        "review": "Sets unreasonable deadlines, not very helpful, also very boring",
+        "subject": "Computer Science",
+        "stars": 1.2
+    }
+  ]
+}
